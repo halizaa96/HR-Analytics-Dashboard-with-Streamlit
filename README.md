@@ -1,1 +1,1 @@
-# HR-Analytics-Dashboard-with-Streamlit
+# HR Analytics Dashboard with Streamlit
