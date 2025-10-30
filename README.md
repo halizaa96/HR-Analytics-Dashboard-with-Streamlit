@@ -7,3 +7,12 @@ Dashboard HR Analytics adalah visualisasi data interaktif yang menampilkan infor
 - **Demographics**: Analisis komposisi karyawan berdasarkan karakteristik.
 - **Performance**: Pemantauan kinerja individu dan tim.
 - **Career Progression**: Visualisasi perkembangan dan pola karier karyawan.
+
+## 📊 Teknologi yang Digunakan
+- Python – Bahasa utama untuk pemrosesan data dan otomatisasi
+- Pandas, NumPy – Untuk manipulasi dan analisis data secara efisien
+- Matplotlib, Seaborn, Plotly – Untuk visualisasi data dan pembuatan grafik interaktif
+- Streamlit – Membangun dashboard interaktif dan analitik visual yang intuitif
+
+## Author
+Haliza Meyla Safira :)
