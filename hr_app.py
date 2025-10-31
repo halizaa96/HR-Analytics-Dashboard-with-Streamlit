@@ -223,7 +223,7 @@ with tab4:
     df['TANGGAL_MULAI_JENJANG'] = pd.to_datetime(df['TANGGAL_MULAI_JENJANG'], errors='coerce')
 
     
-        # ===========================================
+    # ===========================================
     # Rata-rata waktu sebelum promosi
     # ===========================================
     if 'MASA_MENJABAT' in df.columns:
@@ -261,4 +261,5 @@ with tab4:
         ax2.set_title('Perbandingan Rata-rata Masa Menjabat per Divisi', fontsize=11, fontweight='bold')
         st.pyplot(fig2)
     else:
+
         st.info("Kolom 'POHON_PROFESI' atau 'MASA_MENJABAT' tidak tersedia.")
